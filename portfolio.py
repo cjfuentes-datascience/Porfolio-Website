@@ -6,7 +6,7 @@ st.write('''Hi, I'm Carlos! :wave: In this web app, you'll find a collection of 
 
 ''')
 #st.write("Simply follow the instructions below to get a glimpse of what I've built throughout my career. :izakaya_lantern:")
-st.write("You can use the side bar to navigate the different pages in this webapp follow the instructions below to get a glimpse of what I've built throughout my career.:world_map:")
+st.write("You can use the side bar to navigate the different pages in this webapp. :world_map:")
 st.write('Hope you enjoy! :smile:')
 st.write('---')
 
