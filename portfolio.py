@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import yfinance as yf
 
 st.title('Carlos J. Fuentes: Data Scientist :panda_face:')
 st.write('''Hi, I'm Carlos! :wave: In this web app, you'll find a collection of projects I've build using various different programming tools.   
