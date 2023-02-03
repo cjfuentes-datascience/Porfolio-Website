@@ -5,8 +5,7 @@ st.title('Carlos J. Fuentes: Data Scientist :panda_face:')
 st.write('''Hi, I'm Carlos! :wave: In this web app, you'll find a collection of projects I've build using various different programming tools.   
 
 ''')
-#st.write("Simply follow the instructions below to get a glimpse of what I've built throughout my career. :izakaya_lantern:")
-st.write("You can use the side bar to navigate the different pages in this webapp. :world_map:")
+st.write("You can use the side bar to navigate the different pages in this webapp. :izakaya_lantern:")
 st.write('Hope you enjoy! :smile:')
 st.write('---')
 
