@@ -23,21 +23,24 @@ if choice=='Streamlit':
     st.write("Click the button below to view a list of **Streamlit** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
     if st.button('Github'):
-        webbrowser.open_new_tab(link)
+        st.write(f'<a href="{link}" target="_blank">Github Repository</a>', unsafe_allow_html=True)
+
 
 if choice=='Python':
     st.subheader('Python Projects :snake:')
     st.write("Click the button below to view a list of **Python** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
     if st.button('Github'):
-        webbrowser.open_new_tab(link)
+        st.write(f'<a href="{link}" target="_blank">Github Repository</a>', unsafe_allow_html=True)
+
 
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
     st.write("Click the button below to view a list of **SQL** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/SQL-PROJECTS'
     if st.button('Github'):
-        webbrowser.open_new_tab(link)
+        st.write(f'<a href="{link}" target="_blank">Github Repository</a>', unsafe_allow_html=True)
+
 
 if choice=='PowerBI':
     st.subheader('PowerBI Projects :chart_with_upwards_trend:')
@@ -45,7 +48,7 @@ if choice=='PowerBI':
     link = 'https://github.com/cjfuentes-datascience/POWER-BI-PROJECTS'
     #st.button('Github', link)
     if st.button('Github'): # this is the only way to make the button work apparently
-        webbrowser.open_new_tab(link)
+        st.write(f'<a href="{link}" target="_blank">Github Repository</a>', unsafe_allow_html=True)
 
 
 
@@ -53,8 +56,9 @@ if choice=='Tableau':
     st.subheader('Tableau Projects :chart_with_downwards_trend:')
     st.write("Click the button below to view a list of **Tableau** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/TABLEAU-PROJECTS'
-    if st.button('Github'):
-        webbrowser.open_new_tab(link)
+    if st.button('Github'): # this is the only way to make the button work apparently
+        st.write(f'<a href="{link}" target="_blank">Github Repository</a>', unsafe_allow_html=True)
+
 
 st.write('---')
 
