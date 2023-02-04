@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title='Carlos J. Fuentes',
+    layout='wide'
+)
+
 st.title('Carlos J. Fuentes: Data Scientist :panda_face:')
 st.write('''Hi, I'm Carlos! :wave: In this web app, you'll find a collection of projects I've build using various different programming tools.   
 ''')
