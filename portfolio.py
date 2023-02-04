@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title='Carlos J. Fuentes: Data Scientist :panda_face:',
+    page_title='Carlos J. Fuentes: Data Scientist',
     layout='wide'
 )
 
