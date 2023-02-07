@@ -15,7 +15,7 @@ st.write('---')
 
 # building the sidebar
 with st.sidebar:
-    st.title('Project Portfolio')
+    st.title('Project Portfolio :briefcase:')
     choice = st.radio('Navigation', ['Python', 'Streamlit', 'SQL', 'PowerBI', 'Tableau'])
     st.info("This sidebar allows you to navigate to various portfolio destinations in order to view some of the applications and dashboards I've developed. :100:")
 
