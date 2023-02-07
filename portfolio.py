@@ -25,44 +25,28 @@ if choice=='Python':
     st.subheader('Python Projects :snake:')
     st.write("Click the button below to view a list of **Python** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
-    st.markdown(f'''
-        <style>
-        a:hover {{
-            background-color: red;
-        }}
-        </style>
-        <a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>
-        ''', 
-                unsafe_allow_html=True)
-
-
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
 if choice=='Streamlit':
     st.subheader('Streamlit Projects :spider_web:')
     st.write("Click the button below to view a list of **Streamlit** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
     st.write("Click the button below to view a list of **SQL** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/SQL-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-
 if choice=='PowerBI':
     st.subheader('PowerBI Projects :chart_with_upwards_trend:')
     st.write("Click the button below to view a list of **PowerBI** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/POWER-BI-PROJECTS'
     #st.button('Github', link)
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-
 if choice=='Tableau':
     st.subheader('Tableau Projects :chart_with_downwards_trend:')
     st.write("Click the button below to view a list of **Tableau** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/TABLEAU-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-
-
-
 
 st.write('---')
 
