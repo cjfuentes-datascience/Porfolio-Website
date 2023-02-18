@@ -21,15 +21,15 @@ with st.sidebar:
 
 # making the sidebar selections work
 
-if choice=='Python':
-    st.subheader('Python Projects :snake:')
-    st.write("Click the button below to view a list of **Python** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
 if choice=='Streamlit':
     st.subheader('Streamlit Projects :spider_web:')
     st.write("Click the button below to view a list of **Streamlit** applications I've developed to bring data to life.")
     link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
+if choice=='Python':
+    st.subheader('Python Projects :snake:')
+    st.write("Click the button below to view a list of **Python** applications I've developed to bring data to life.")
+    link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
