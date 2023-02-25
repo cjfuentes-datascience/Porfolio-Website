@@ -39,8 +39,10 @@ if choice=='Streamlit':
 
         - Portfolio Website: https://cjfuentes-datascience-porfolio-website-streaml-portfolio-02zrce.streamlit.app/
 
-        - Linear-Regression-Weekly-Report: https://cjfuentes-datascience-weekly-report-stream-weekly-report-o4z4ny.streamlit.app/
-
+        - Linear-Regression-Weekly-Report: https://cjfuentes-datascience-linear-regression-weekly-lr-report-yujt5p.streamlit.app/
+        
+        - Weekly-Report: https://cjfuentes-datascience-weekly-report-stream-weekly-report-o4z4ny.streamlit.app/
+        
         - Sales-Dashboard: https://cjfuentes-datascience-sales-dashboard-st-sales-dashboard-6wpnmb.streamlit.app/
 
         - Excel-Plotter: https://cjfuentes-datascience-excel-plotter-stream-excel-plotter-urkhnk.streamlit.app/
