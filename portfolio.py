@@ -39,14 +39,13 @@ if choice=='Streamlit':
 
         - Portfolio Website: https://cjfuentes-datascience-porfolio-website-streaml-portfolio-02zrce.streamlit.app/
 
-        - Linear-Regression-Weekly-Report: A Streamlit web app that performs linear regression analysis and displays the predictions https://cjfuentes-datascience-linear-regression-weekly-lr-report-yujt5p.streamlit.app/
-        - Weekly-Report: A streamlined web application for effortlessly creating weekly reports https://cjfuentes-datascience-weekly-report-stream-weekly-report-o4z4ny.streamlit.app/
+        - Linear-Regression-Weekly-Report: https://cjfuentes-datascience-weekly-report-stream-weekly-report-o4z4ny.streamlit.app/
 
-        - Sales-Dashboard: An intuitive web application for visualizing sales data in a meaningful and organized way https://cjfuentes-datascience-sales-dashboard-st-sales-dashboard-6wpnmb.streamlit.app/
+        - Sales-Dashboard: https://cjfuentes-datascience-sales-dashboard-st-sales-dashboard-6wpnmb.streamlit.app/
 
-        - Excel-Plotter: A user-friendly web application that empowers you to plot your data from an excel file with ease https://cjfuentes-datascience-excel-plotter-stream-excel-plotter-urkhnk.streamlit.app/
+        - Excel-Plotter: https://cjfuentes-datascience-excel-plotter-stream-excel-plotter-urkhnk.streamlit.app/
 
-        - Stocks: A dynamic web application that keeps you updated on your favorite stocks https://cjfuentes-datascience-stocks-streamlit-stocks-z6vo0e.streamlit.app/
+        - Stocks: https://cjfuentes-datascience-stocks-streamlit-stocks-z6vo0e.streamlit.app/
     """)
 
 if choice=='Python':
@@ -70,80 +69,61 @@ if choice=='Python':
 
         - Clustering-With-K-Means: https://github.com/cjfuentes-datascience/Clustering-With-K-Means-Python
 
-        - Weekly-Report: This project aims to automate the weekly report creation process using the pandas library in Python. https://github.com/cjfuentes-datascience/Weekly-Report-Python
+        - Weekly-Report: https://github.com/cjfuentes-datascience/Weekly-Report-Python
 
-        - Compare-Machine-Learning-Classifiers: This project demonstrates how to compare the performance of several machine learning classifiers in Python using the scikit-learn package. https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
+        - Compare-Machine-Learning-Classifiers: https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
 
-        - Building-a-Classification-Model: This project demonstrates how to build a simple machine learning model in Python using the scikit-learn package. The model is a classification model used to classify Iris flowers using the random forest algorithm. https://github.com/cjfuentes-datascience/Building-a-Classification-Model-Python
+        - Building-a-Classification-Model: https://github.com/cjfuentes-datascience/Building-a-Classification-Model-Python
 
-        - Fashion-Multiclass-Classification-Logistic-Regression: This project uses logistic regression to classify images of clothing into different categories
-        https://github.com/cjfuentes-datascience/Fashion-Multiclass-Classification-Logistic-Regression-Python
+        - Fashion-Multiclass-Classification-Logistic-Regression: https://github.com/cjfuentes-datascience/Fashion-Multiclass-Classification-Logistic-Regression-Python
 
-        - Multiclass-Classification: This project uses various machine learning algorithms to classify instances into one of multiple classes
-        https://github.com/cjfuentes-datascience/Multiclass-Classification-Python
+        - Multiclass-Classification: https://github.com/cjfuentes-datascience/Multiclass-Classification-Python
 
-        - Logistical-Regression: The goal of this project is to implement logistic regression algorithm on multiple datasets and compare the results
-        https://github.com/cjfuentes-datascience/Logistical-Regression-Python
+        - Logistical-Regression: https://github.com/cjfuentes-datascience/Logistical-Regression-Python
 
-        - Predicting-Insurance-Charges: This project uses logistic regression to predict insurance charges
-        https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
+        - Predicting-Insurance-Charges: https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
 
-        - Simple-Linear-Regression-Model: The goal of this project is to demonstrate the basic implementation of linear regression and its usage https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
+        - Simple-Linear-Regression-Model: https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
 
-        - Beginner-Machine-Learning-Project: This project is a beginner's project that covers the basics of machine learning and data analysis
-        https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
+        - Beginner-Machine-Learning-Project: https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
 
-        - Tennis-Ace: Creating a linear regression model that predicts the outcome for a tennis player based on their playing habits. https://github.com/cjfuentes-datascience/Tennis-Ace-Python
+        - Tennis-Ace: https://github.com/cjfuentes-datascience/Tennis-Ace-Python
 
-        - Women's-E-Commerce-Clothing: Data analysis project that uses Python to explore and visualize data from a clothing company's e-commerce website.  https://github.com/cjfuentes-datascience/Women-s-E-Commerce-Clothing
+        - Women's-E-Commerce-Clothing: https://github.com/cjfuentes-datascience/Women-s-E-Commerce-Clothing
 
-        - Honey-Production: Data analysis project that uses Python to explore and visualize data on honey production in the United States.
-        https://github.com/cjfuentes-datascience/Honey-Production-Python
+        - Honey-Production: https://github.com/cjfuentes-datascience/Honey-Production-Python
 
-        - Linear Regression at Codecademy: A project involving the implementation of linear regression in Python.
-        https://github.com/cjfuentes-datascience/Linear-Regression-at-Codecademy-Python
+        - Linear Regression at Codecademy: https://github.com/cjfuentes-datascience/Linear-Regression-at-Codecademy-Python
 
-        - K-Means Clustering From Scratch: A project implementing the K-Means clustering algorithm from scratch in Python. 
-        https://github.com/cjfuentes-datascience/K-means-Clustering-From-Scratch-Python
+        - K-Means Clustering From Scratch: https://github.com/cjfuentes-datascience/K-means-Clustering-From-Scratch-Python
 
-        - Heart Disease Research Part I: A project analyzing heart disease data and implementing various machine learning models to predict the presence of heart disease.
-        https://github.com/cjfuentes-datascience/Heart-Disease-Research-Part-I-Python
+        - Heart Disease Research Part I: https://github.com/cjfuentes-datascience/Heart-Disease-Research-Part-I-Python
 
-        - Olympics Linear Regression: A project using linear regression to analyze Olympic data.
-        https://github.com/cjfuentes-datascience/Olympics-Linear-Regression-Python
+        - Olympics Linear Regression: https://github.com/cjfuentes-datascience/Olympics-Linear-Regression-Python
 
-        - NBA Trends: A project analyzing trends in NBA data.
-        https://github.com/cjfuentes-datascience/NBA-Trends-Python
+        - NBA Trends: https://github.com/cjfuentes-datascience/NBA-Trends-Python
 
-        - Exploring Student Data: A project exploring and analyzing student data.
-        https://github.com/cjfuentes-datascience/Exploring-Student-Data-Python
+        - Exploring Student Data: https://github.com/cjfuentes-datascience/Exploring-Student-Data-Python
 
-        - Sublime Limes Line Graphs: A project creating line graphs to visualize data on the sales of Sublime Limes.
-        https://github.com/cjfuentes-datascience/Sublime-Limes-Line-Graphs-Python
+        - Sublime Limes Line Graphs: https://github.com/cjfuentes-datascience/Sublime-Limes-Line-Graphs-Python
 
-        - Diagnosing Diabetes: A project using machine learning to predict the presence of diabetes.
-        https://github.com/cjfuentes-datascience/Diagnosing-Diabetes-Python
+        - Diagnosing Diabetes: https://github.com/cjfuentes-datascience/Diagnosing-Diabetes-Python
 
-        - Census Variable Manipulation: A project manipulating and analyzing census data.
-        https://github.com/cjfuentes-datascience/Census-Variable-Manipulation-Python
+        - Census Variable Manipulation: https://github.com/cjfuentes-datascience/Census-Variable-Manipulation-Python
 
-        - Automobile Variable Types: A project exploring and analyzing data on automobile variables.
-        https://github.com/cjfuentes-datascience/Automobile-Variable-Types-Python
+        - Automobile Variable Types: https://github.com/cjfuentes-datascience/Automobile-Variable-Types-Python
 
-        - Page Visits Funnel: A project analyzing page visit data to optimize a website's sales funnel.
-        https://github.com/cjfuentes-datascience/Page-Visits-Funnel-Python
+        - Page Visits Funnel: https://github.com/cjfuentes-datascience/Page-Visits-Funnel-Python
 
-        - Fraud Detection: A project using machine learning to detect fraudulent activity.
-        https://github.com/cjfuentes-datascience/Fraud-Detection-Python
+        - Fraud Detection: https://github.com/cjfuentes-datascience/Fraud-Detection-Python
 
-        - A/B Testing for ShoeFly.com: A project implementing A/B testing on the ShoeFly.com website. https://github.com/cjfuentes-datascience/A-B-Testing-for-ShoeFly.com-Python
+        - A/B Testing for ShoeFly.com: https://github.com/cjfuentes-datascience/A-B-Testing-for-ShoeFly.com-Python
 
-        - Exploring Mushrooms: A project exploring and analyzing mushroom data.
-        https://github.com/cjfuentes-datascience/Exploring-Mushrooms-Python
+        - Exploring Mushrooms: https://github.com/cjfuentes-datascience/Exploring-Mushrooms-Python
 
-        - Airline-Analysis: Python project that involves analyzing airline data. https://github.com/cjfuentes-datascience/Airline-Analysis-Python
+        - Airline-Analysis: https://github.com/cjfuentes-datascience/Airline-Analysis-Python
 
-        - Cleaning-US-Census-Data: Python project that involves cleaning and preparing US Census data for analysis. https://github.com/cjfuentes-datascience/Cleaning-US-Census-Data-Python
+        - Cleaning-US-Census-Data: https://github.com/cjfuentes-datascience/Cleaning-US-Census-Data-Python
     """)
 
 if choice=='SQL':
