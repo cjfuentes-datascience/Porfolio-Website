@@ -54,11 +54,7 @@ if choice=='Streamlit':
 
 if choice=='Python':
     st.subheader('Python Projects :snake:')
-    st.write("Click the button below to view a list of **Python** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
     
-    st.write('---')
     # copy and pasting github readme file, 'ctrl'+'shift'+'[' to hide the text below
     st.write("""
         Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
@@ -129,7 +125,13 @@ if choice=='Python':
 
         - Cleaning-US-Census-Data: https://github.com/cjfuentes-datascience/Cleaning-US-Census-Data-Python
     """)
-
+    st.write('---')
+    st.subheader("Github Portfolio")
+    st.write("Click the button below to view my list of **Python** applications on Github.")
+    link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
+    
+    st.write('---')
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
     st.write("Click the button below to view a list of **SQL** applications I've developed to bring data to life.")
