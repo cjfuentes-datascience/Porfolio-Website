@@ -47,7 +47,7 @@ if choice=='Streamlit':
     """)
     
     st.write('---')
-    st.write("Click the button below visit my Github portfolio.")
+    st.write("Click the button below visit my Github portfolio. :point_down:")
     link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
 
