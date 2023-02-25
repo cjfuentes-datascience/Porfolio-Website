@@ -24,10 +24,7 @@ with st.sidebar:
 # making the sidebar selections work
 if choice=='Streamlit':
     st.subheader('Streamlit Projects :spider_web:')
-    st.write("Click the button below to view a list of **Streamlit** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-    
+        
     st.write('---')
     # copy and pasting github readme file, 'ctrl'+'shift'+'[' to hide the text below
     st.write("""
@@ -49,6 +46,10 @@ if choice=='Streamlit':
 
         - Stocks: https://cjfuentes-datascience-stocks-streamlit-stocks-z6vo0e.streamlit.app/
     """)
+    
+    st.write("Click the button below to view a list of **Streamlit** applications I've developed to bring data to life.")
+    link = 'https://github.com/cjfuentes-datascience/STREAMLIT-PROJECTS'
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
 
 if choice=='Python':
     st.subheader('Python Projects :snake:')
