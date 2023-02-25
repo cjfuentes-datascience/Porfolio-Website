@@ -133,11 +133,7 @@ if choice=='Python':
     
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
-    st.write("Click the button below to view a list of **SQL** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/SQL-PROJECTS'
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
     
-    st.write('---')
     # copy and pasting github readme file, 'ctrl'+'shift'+'[' to hide the text below
     st.write("""
         Below is a collection of SQL projects I've compiled and uploaded to GitHub. Please feel free to have a look!
@@ -162,7 +158,14 @@ if choice=='SQL':
 
         - Analyze Hacker News Trends: https://github.com/cjfuentes-datascience/Analyze-Hacker-News-Trends-SQL
 """)
-
+    
+    st.write('---')
+    st.subheader("Github Portfolio")
+    st.write("Click the button below to view my list of **SQL** applications on Github.")
+    link = 'https://github.com/cjfuentes-datascience/SQL-PROJECTS'
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
+    
+    
 if choice=='PowerBI':
     st.subheader('PowerBI Projects :chart_with_upwards_trend:')
     st.write("Click the button below to view a list of **PowerBI** applications I've developed to bring data to life.")
