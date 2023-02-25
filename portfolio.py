@@ -168,12 +168,7 @@ if choice=='SQL':
     
 if choice=='PowerBI':
     st.subheader('PowerBI Projects :chart_with_upwards_trend:')
-    st.write("Click the button below to view a list of **PowerBI** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/POWER-BI-PROJECTS'
-    #st.button('Github', link)
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
-
-    st.write('---')
+    
     # copy and pasting github readme file, 'ctrl'+'shift'+'[' to hide the text below
     st.write("""
         Below is a collection of Power BI projects I've compiled and uploaded to GitHub. Please feel free to have a look!
@@ -192,14 +187,18 @@ if choice=='PowerBI':
 
         - IT-Spend: https://github.com/cjfuentes-datascience/IT-Spend
 """)
+    
+    st.write('---')
+    st.subheader("Github Portfolio")
+    st.write("Click the button below to view my list of **PowerBI** applications on Github.")
+    link = 'https://github.com/cjfuentes-datascience/POWER-BI-PROJECTS'
+    #st.button('Github', link)
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
+
 
 if choice=='Tableau':
     st.subheader('Tableau Projects :chart_with_downwards_trend:')
-    st.write("Click the button below to view a list of **Tableau** applications I've developed to bring data to life.")
-    link = 'https://github.com/cjfuentes-datascience/TABLEAU-PROJECTS'
-    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
     
-    st.write('---')
     # copy and pasting github readme file, 'ctrl'+'shift'+'[' to hide the text below
     st.write("""
         Below is a collection of Tableau projects I've compiled and uploaded to GitHub. Please feel free to have a look!
@@ -212,6 +211,13 @@ if choice=='Tableau':
 
         - Product-Line-Performance: https://public.tableau.com/app/profile/carlos3124/viz/ProductLinePerformance_16643961849890/ProductLinePerformance
 """)
+    
+    st.write('---')
+    st.subheader("Github Portfolio")
+    st.write("Click the button below to view a list of **Tableau** applications I've developed to bring data to life.")
+    link = 'https://github.com/cjfuentes-datascience/TABLEAU-PROJECTS'
+    st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
+    
 
 st.write('---')
 
