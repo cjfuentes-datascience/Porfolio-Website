@@ -131,7 +131,6 @@ if choice=='Python':
     link = 'https://github.com/cjfuentes-datascience/PYTHON-PROJECTS'
     st.markdown(f'<a href="{link}" target="_blank" style="background-color: #4681f4; padding: 8px 16px; font-size: 16px; color: white; border-radius: 4px;">Github</a>', unsafe_allow_html=True)
     
-    st.write('---')
 if choice=='SQL':
     st.subheader('SQL Projects :bookmark_tabs:')
     st.write("Click the button below to view a list of **SQL** applications I've developed to bring data to life.")
